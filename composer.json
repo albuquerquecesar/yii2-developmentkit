@@ -1,0 +1,20 @@
+{
+    "name": "chlalbuquerque/yii2-kitdevelop",
+    "description": "A development kit to brazilian applications powered by Yii 2. Provideres validators and widgets.",
+    "keywords":["brazilian", "yii2", "development","kit", "brazil", "brasil"],
+    "autoload": {
+        "psr-0" : {
+            "chlalbuquerque\\yii2-kitdevelop" : "src"
+        }
+    }
+    "authors": [
+        {
+            "name": "cesar albuquerque",
+            "email": "cesar.consultorjr@gmail.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.4.0",
+		"yiisoft/yii2": "~2.0"
+		}
+}

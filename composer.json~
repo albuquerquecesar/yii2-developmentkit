@@ -1,0 +1,18 @@
+{
+    "name": "chlalbuquerque/yii2-kitdevelop",
+    "autoload": {
+        "psr-0" : {
+            "chlalbuquerque\\yii2-kitdevelop" : "src"
+        }
+    }
+    "authors": [
+        {
+            "name": "cesar albuquerque",
+            "email": "cesar.consultorjr@gmail.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.4.0",
+		"yiisoft/yii2": "~2.0"
+		}
+}
