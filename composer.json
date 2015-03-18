@@ -6,7 +6,7 @@
         "psr-0" : {
             "chlalbuquerque\\yii2-kitdevelop" : "src"
         }
-    }
+    },
     "authors": [
         {
             "name": "cesar albuquerque",
