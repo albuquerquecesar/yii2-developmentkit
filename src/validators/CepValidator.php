@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace common\components\validators;
+namespace chlabuquerque\yii2kitdevelopment\validators;
 
 /**
  * Description of CepValidator
