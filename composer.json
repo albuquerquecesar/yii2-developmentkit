@@ -1,10 +1,10 @@
 {
-    "name": "chlalbuquerque/devkit",
+    "name": "chlalbuquerque/yii2-developmentkit",
     "description": "A development kit to brazilian applications powered by Yii 2. Provideres validators and widgets.",
     "keywords":["brazilian", "yii2", "development","kit", "brazil", "brasil"],
     "autoload": {
         "psr-0" : {
-            "chlalbuquerque\\devkit" : "src"
+            "chlalbuquerque\\devkit" : "src/"
         }
     },
     "authors": [
