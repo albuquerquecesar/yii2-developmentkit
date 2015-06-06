@@ -1,7 +1,7 @@
 <?php
 
 
-namespace chlabuquerque\yii2kitdevelopment\widgets;
+namespace chlabuquerque\devkit\widgets;
 
 /**
  * Description of Cnpj

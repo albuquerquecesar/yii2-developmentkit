@@ -1,7 +1,7 @@
 <?php
 
 
-namespace chlabuquerque\yii2kitdevelopment\validators;
+namespace chlabuquerque\devkit\validators;
 
 /**
  * Description of LongitudeValidator

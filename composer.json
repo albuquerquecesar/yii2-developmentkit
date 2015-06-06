@@ -4,7 +4,7 @@
     "keywords":["brazilian", "yii2", "development","kit", "brazil", "brasil"],
     "autoload": {
         "psr-0" : {
-            "chlalbuquerque\\yii2kitdevelopment" : "src"
+            "chlalbuquerque\\devkit" : "src"
         }
     },
     "authors": [
